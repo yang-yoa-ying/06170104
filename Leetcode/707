@@ -1,0 +1,24 @@
+class MyLinkedList:
+
+    def __init__(self):
+        """
+        Initialize your data structure here.
+        """
+        self.val = None                      //初始化資料
+        self.next = None
+
+    def get(self, index: int) -> int:
+        """
+        Get the value of the index-th node in the linked list. If the index is invalid, return -1.
+        """
+        if self.val == None:             //如果val等於空值返回-1
+            return -1
+        if index == 0:                   //如果index等於0,回傳self.val，這裡是將index當作pointer，若pointer為0代表指向第一個memory所存的值
+            return self.val              //故回傳self.val
+        i = 1                            //因為將第0個給用掉了，i由1開始
+        while self.next != None:         //利用while迴圈判斷若index尚未指向空值，則回傳值並由下一個值指向下下一個值，直到空值則回傳-1
+            if i == index:
+                return self.next.val
+            self.next = self.next.next
+            i = i + 1
+        return -1
