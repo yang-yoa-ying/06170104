@@ -58,7 +58,7 @@ class MyLinkedList:
         i = 0
         p = self
         pre = p
-        if index <= 0:                          //如果index<=0代表加到最前方故用addAtHead
+        if index <= 0:                          //如果index<=0代表加到最前方故用addAtHead()
             self.addAtHead(val)
             return
         while i < index:
