@@ -48,7 +48,7 @@ class MyLinkedList:
             self.val = val
             return
         p = self
-        while p.next != None:           #如果self.value為不空值，則將self = self.next，直到沒有self.next(最後一個pointer)
+        while p.next != None:           #如果self.value為不空值，則將self = self.next，直到沒有self.next
             p = p.next
         p.next = MyLinkedList()         
         p.next.val = val                #新的node of value
