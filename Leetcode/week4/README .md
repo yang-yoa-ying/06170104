@@ -5,3 +5,4 @@
 ### 大部分情況下，時間複雜度大部分情況下，時間複雜度最理想
 * 最差情況 : O（n2）
 * 理想情況 : O（n * log n）
+[HW1快速排序法](https://nbviewer.jupyter.org/github/yang-yoa-ying/06170104/blob/master/Leetcode/week4/%E5%BF%AB%E9%80%9F%E6%8E%92%E5%88%97%E6%B3%95.ipynb)
