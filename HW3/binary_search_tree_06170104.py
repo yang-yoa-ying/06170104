@@ -234,6 +234,6 @@ print(root4.left.val)
 
 # In[ ]:
 
-
-
-
+#參考資料
+#https://docs.google.com/presentation/d/e/2PACX-1vQgUh73yvSdxAvMH50DHWJ5lsCX8-daMxtoltU9rYW7xCmqYz2A1wOv0Vcx_F9KO5ZUvZBv3IF1TjGi/pub?start=false&loop=false&delayms=3000&slide=id.g659a558647_1_0
+#https://www.geeksforgeeks.org/binary-search-tree-set-1-search-and-insertion/
