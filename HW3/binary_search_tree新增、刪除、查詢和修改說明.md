@@ -11,4 +11,8 @@
 3. 先左且有右:我會找先找左然後依值找右直到找到沒有右為止(self.left.right.right.....)(只有left或None)，並將此數代替被刪除值並刪除
 4. 先右且有左:我會找先找右然後依值找左直到找到沒有左為止(self.right.left.left.....)(只有right或None)，並將此數代替被刪除值並刪除
 # 修改
-利用前面寫好的新增和刪除，將值新增並刪除以達到修改的功能
+利用前面寫好的加上和刪除，將值添加並刪除以達到修改的功能
+# 參考資料
+* https://github.com/yang-yoa-ying/06170104/tree-save/master/HW3/binary_search_tree_06170104.py
+* https://docs.google.com/presentation/d/e/2PACX-1vQgUh73yvSdxAvMH50DHWJ5lsCX8-daMxtoltU9rYW7xCmqYz2A1wOv0Vcx_F9KO5ZUvZBv3IF1TjGi/pub?start=false&loop=false&delayms=3000&slide=id.g6aecfee46c_2_11
+* http://www.csie.ntnu.edu.tw/~u91029/Order.html
