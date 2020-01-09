@@ -1,5 +1,5 @@
 # 快速排排列法
-![image](https://github.com/yang-yoa-ying/06170104/blob/master/week4/messageImage_1578601830438.jpg)
+![image](https://github.com/yang-yoa-ying/06170104/blob/master/HW1/messageImage_1578601830438.jpg)
 快速排序使用分治法為基礎，實際上快速排列法十分簡單，如圖所示，我們將其中一個數設為基準點(圖以最右為基準)，將數分為比基準大與比基準小，再從大與小的數中選出基準，分出比基準大和比基準小的數，重複此動作，直到無法比大小為止(成功排序)。
 ## 優點
 ### 大部分情況下，時間複雜度大部分情況下，時間複雜度最理想
