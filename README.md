@@ -3,7 +3,7 @@
 資料大部分來自蔡芸琤老師的課堂及ppt
 # 功課
 ## 功課一
-   1. [第一份作業程式碼](https://github.com/yang-yoa-ying/06170104/tree/master/HW1 "Title")
+   1. [第一份作業程式碼](https://github.com/yang-yoa-ying/06170104/blob/master/HW1/QuickSort.ipynb "Title")
    2. [筆記解釋附圖](https://github.com/yang-yoa-ying/06170104/blob/master/HW1/README.md "Title")
 ## 功課二
    1. [第二份作業程式碼](https://github.com/yang-yoa-ying/06170104/blob/master/HW2/heap_sort_06170104.py "Title")
