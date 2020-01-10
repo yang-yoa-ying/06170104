@@ -65,7 +65,7 @@ https://github.com/yang-yoa-ying/06170104/tree/master/LeetCode/picturerun
    
 ## week8
 * Binary Tree:二元樹，每個節點最多有兩個分支
-[上課連結](https://docs.google.com/presentation/d/e/2PACX-1vSC3P8sGElP48mJTjqT309470SmTFBwJXWsU9hTX2hg5tVpiG4yC703qA7ibPep-Qakmm2Mw_F-ScZh/pub?start=false&loop=false&delayms=3000&slide=id.p "Title")
+* [上課連結](https://docs.google.com/presentation/d/e/2PACX-1vSC3P8sGElP48mJTjqT309470SmTFBwJXWsU9hTX2hg5tVpiG4yC703qA7ibPep-Qakmm2Mw_F-ScZh/pub?start=false&loop=false&delayms=3000&slide=id.p "Title")
 
 ## week9
 * BlockChain Scratch，期末專題
