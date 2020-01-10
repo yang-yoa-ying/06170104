@@ -30,5 +30,13 @@
    5. [771](https://github.com/yang-yoa-ying/06170104/blob/master/LeetCode/771.py "Title")
 ### 速度及題目照片
 https://github.com/yang-yoa-ying/06170104/tree/master/LeetCode/picturerun 
-   
+
+# 資料結構演算法上課內容
+## week1
+課程介紹
+[計分規則](https://docs.google.com/presentation/d/e/2PACX-1vQyAFfgCNbBPBDWV_Xbahc2CtMBr_v-jfffAhaOWw2SntBRd2kJtLZZgdYoRfEZD7flCo4ilfO_msKX/pub?start=false&loop=false&delayms=3000&slide=id.p "Title")
+
+# week2
+[上課連結]https://docs.google.com/presentation/d/e/2PACX-1vTB218-EdUZ5jpNz6Uv4TOZQc37Y281v128_aRcWC6EhkTQs5bS8fh7yysmcuzb9R2QPN6_PDshFWL_/pub?start=false&loop=false&delayms=3000&slide=id.p "Title")
+
    
